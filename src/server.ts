@@ -1,3 +1,5 @@
+process.env.FORCE_COLOR = process.env.FORCE_COLOR ?? "3";
+
 import ssh2 from "ssh2";
 import { resolve } from "node:path";
 import { loadOrCreateHostKey } from "./ssh/hostKey.js";

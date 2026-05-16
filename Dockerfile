@@ -42,7 +42,9 @@ ENV NODE_ENV=production \
     HOST=0.0.0.0 \
     HOST_KEY_PATH=/data/keys/host_ed25519 \
     MAX_CONNECTIONS=50 \
-    IDLE_TIMEOUT_MS=900000
+    IDLE_TIMEOUT_MS=900000 \
+    FORCE_COLOR=3 \
+    TERM=xterm-256color
 
 # tini gives us a proper PID 1 that forwards signals (SIGTERM) for graceful
 # shutdown when docker stops the container.
