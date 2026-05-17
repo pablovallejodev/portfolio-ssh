@@ -4,7 +4,7 @@ Pablo Vallejo's portfolio, served over SSH. Built with **Node.js**, **React Ink*
 and **TypeScript**.
 
 ```
-$ ssh terminal.dfbubbles.com
+$ ssh terminal.pablovallejo.dev
 ```
 
 No password. No keys. Just connect.
