@@ -5,6 +5,6 @@ export const project = {
     license: "MIT",
   },
   web: {
-    url: "https://portfolio.dfbubbles.com/",
+    url: "https://portfolio.pablovallejo.dev/",
   },
 } as const;
