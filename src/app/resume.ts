@@ -58,7 +58,7 @@ export const resume: Resume = {
   basics: {
     name: "Pablo Vallejo",
     headline: "Senior Backend Engineer · Node.js · TypeScript · Big Data",
-    email: "pablo.vallejo@dfbubbles.com",
+    email: "pablo@pablovallejo.dev",
     location: "Bangkok, Thailand",
     customFields: [
       {
