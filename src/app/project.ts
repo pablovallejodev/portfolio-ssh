@@ -1,10 +1,10 @@
 export const project = {
   ssh: {
     name:    "portfolio-ssh",
-    repo:    "https://github.com/DeepfriendLLC/portfolio-ssh",
+    repo:    "https://github.com/pablovallejodev/portfolio-ssh",
     license: "MIT",
   },
   web: {
-    url: "https://portfolio.pablovallejo.dev/",
+    url: "https://pablovallejo.dev/",
   },
 } as const;

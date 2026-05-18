@@ -49,7 +49,7 @@ visitors can connect with just `ssh <your-domain>`).
 
 ### Putting it on port 22
 
-For the cleanest UX (`ssh portfolio.dfbubbles.com`) you need port 22 free on
+For the cleanest UX (`ssh terminal.pablovallejo.dev`) you need port 22 free on
 the public IP. Two common setups:
 
 1. **Dedicated host / IP.** The simplest — bind to 22 directly, no conflict.
